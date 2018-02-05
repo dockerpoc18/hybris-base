@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Amit Kumar Mishra <amishra76@sapient.com>
+MAINTAINER Amit Kumar Mishra <dockerpoc18@gmail.com>
 
 ENV VERSION 8
 ENV UPDATE 131
